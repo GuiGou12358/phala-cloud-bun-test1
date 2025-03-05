@@ -1,6 +1,6 @@
 services:
   app:
-    image: leechael/phala-cloud-bun-starter:latest
+    image: guigoudev/phala-cloud-bun-test1:latest
     container_name: app
     ports:
       - "3000:3000"
